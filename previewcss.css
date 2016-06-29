@@ -69,6 +69,7 @@ code {
     font-family: Consolas, Monaco, Andale Mono, monospace;
     line-height: 1.5;
     font-size: 13px;
+    background-color: #000000;
 }
 aside {
     display: block;
